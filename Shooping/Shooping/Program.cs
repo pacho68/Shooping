@@ -18,13 +18,6 @@ builder.Services.AddDbContext<DataContext>(o => {
 
 // ... rest of the app setup
 
-
-
-
-
-
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
