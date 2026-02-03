@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Shooping.Models.Data.Entities;
 
+//cambios  en el archivo
+
 namespace Shooping.Controllers
 {
     public class CountriesController : Controller
